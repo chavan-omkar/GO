@@ -18,8 +18,8 @@ func main() {
 
 	//please uncomment one by one function and try it out
 
-	// declareStruct()
-	// embaddedStruct()
+	declareStruct()
+	embaddedStruct()
 
 	mySlice := []string{"Hii", "There", "How", "Are", "You"}
 
